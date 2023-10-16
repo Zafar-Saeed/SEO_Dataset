@@ -9,7 +9,6 @@ Kwyword.io -- www.keyword.io<br>
 
 <br>
 <h1>Following files are included in the dataset:</h1><br>
-- Labeled Dataset<br>
 - List of voice queries<br>
 - List of Pages against queries<br>
 - Merged Dataset (Combines Queries and Pages)<br>
