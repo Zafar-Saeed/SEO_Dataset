@@ -2,8 +2,11 @@
 Dataset for SEO factors
 
 The queries are created using two online question answering Tools against 16 different domains:<br>
+
 Answer the Public -- answerthepublic.com<br>
+
 Kwyword.io -- www.keyword.io<br>
+
 <br>
 <h1>Following files are included in the dataset:</h1><br>
 *Labeled Dataset<br>
