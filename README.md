@@ -14,7 +14,7 @@ Kwyword.io -- www.keyword.io<br>
 - List of Pages against queries<br>
 - Merged Dataset (Combines Queries and Pages)<br>
 - Labeled Dataset<br>
-- Labeled Dataset (CSV Format)<br>
+- Labeled Dataset (CSV Format) - Use for ML classification<br>
 
 
 
